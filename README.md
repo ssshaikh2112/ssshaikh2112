@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **AI Voice Assistance**
 
-- 🌱 I’m currently learning **Ad JAVA /J2EE , JavaScript**
+- 🌱 I’m currently learning **DSA with JAVA**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ssshaikh2112](https://github.com/ssshaikh2112)
 
