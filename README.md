@@ -6,7 +6,7 @@
 <h3 align="center">I'm Sahil🙋‍♂️, a programmer with a great passion for programming, a tech enthusiast with passion to solve problems and to make things.
 I'm a Java Enthusiast 🍵. Apart from coding I always enjoy meeting new people and hearing about their perspectives about how different things work 🤓. Please don’t hesitate to reach out if you want to share thoughts about emerging tech or anything else.</h3>
 
-<h3 align="center">A passionate Java Full Stack Developer from India</h3>
+<h1 align="center">A passionate Java Full Stack Developer from India</h1>
 <img align="right" alt="Coding" width="400" src= "https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ssshaikh2112&label=Profile%20views&color=0e75b6&style=flat" alt="ssshaikh2112" /> </p>
