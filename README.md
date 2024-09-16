@@ -3,8 +3,6 @@
 ![twitter head](https://user-images.githubusercontent.com/70385488/147853861-a67c8643-ff0f-451c-943f-db4e5589e4ee.png)
 -->
 
-<h3 align="center">I'm Sahil🙋‍♂️, a programmer with a great passion for programming, a tech enthusiast with passion to solve problems and to make things.
-I'm a Java Enthusiast 🍵. Apart from coding I always enjoy meeting new people and hearing about their perspectives about how different things work 🤓. Please don’t hesitate to reach out if you want to share thoughts about emerging tech or anything else.</h3>
 
 <h1 align="center">A passionate Java Full Stack Developer from India</h1>
 <img align="right" alt="Coding" width="400" src= "https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
