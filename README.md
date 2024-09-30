@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **ssshaikh2112@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/mr-sahil-shaikh/](https://www.linkedin.com/in/mr-sahil-shaikh/)
+- 📄 Know about my experiences https://www.linkedin.com/in/sahilshanurshaikh/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
