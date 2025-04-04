@@ -3,20 +3,16 @@
 ![twitter head](https://user-images.githubusercontent.com/70385488/147853861-a67c8643-ff0f-451c-943f-db4e5589e4ee.png)
 -->
 
-<h1 align="center">A Passionate Java Full Stack Developer from India</h1>
+<h1 align="center">A Passionate Java Full Stack Developer From India</h1>
 <img align="right" alt="Coding" width="400" src= "https://user-images.githubusercontent.com/58518192/87162442-bf3e8180-c2e7-11ea-9f2a-53a50306b7ce.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ssshaikh2112&label=Profile%20views&color=0e75b6&style=flat" alt="ssshaikh2112" /> </p>
 
 - 🔭 I’m currently Looking for new **Job** Opportunity
 - 🔭 I’m currently working on **Full Stack Java Project**
-
 - 🌱 I’m currently learning **Backend with Java**
-- 📄 Certified in **Java full Stack Development** 
-
-- 👨‍💻 All of my projects are available at [https://github.com/ssshaikh2112](https://github.com/ssshaikh2112)
-
-- 📫 How to reach me **ssshaikh2112@gmail.com**
+- 📄 Certified in **Java Full Stack Development** 
+- 📫 Contact : **ssshaikh2112@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
