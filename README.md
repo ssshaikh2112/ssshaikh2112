@@ -10,7 +10,6 @@
 
 - 🔭 I’m currently Looking for new **Job** Opportunity
 - 🔭 I’m currently working on **Full Stack Java Project**
-- 🌱 I’m currently learning **Backend with Java**
 - 📄 Certified in **Java Full Stack Development** 
 - 📫 Contact : **ssshaikh2112@gmail.com**
 
