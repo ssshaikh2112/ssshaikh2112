@@ -9,7 +9,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ssshaikh2112&label=Profile%20views&color=0e75b6&style=flat" alt="ssshaikh2112" /> </p>
 
 - 🔭 I’m currently working as a **Software Engineer**
-- 🔭 I’m currently working on **Full Stack Application**
+- 🔭 I’m currently working on **Banking Application**
 - 📄 Certified in **Java Full Stack Development** 
 - 📫 Contact : **ssshaikh2112@gmail.com**
 
